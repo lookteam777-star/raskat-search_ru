@@ -159,7 +159,7 @@
   {
     "uid": "530957747631",
     "name": "BNC cable 0.5m",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3230-3862-4465-a562-653034366231/47230547.jpg",
     "url": "https://raskat.rent/sender/tproduct/666561140-530957747631-bnc-cable-05m",
@@ -236,31 +236,29 @@
     "img": "https://static.tildacdn.com/stor3437-3833-4162-b037-363662383365/91689876.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-311408266311-sennheiser-ew-100-g3-eng-wireless-microphone-system",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "938504306871",
     "name": "Софтбокс Nanlite Para 90 Quick-Open (90 диаметр)",
-    "price": "7,5 € / 1 день",
+    "price": "7.5 € / 1 день",
     "old_price": "8 € / 1 день",
     "img": "https://static.tildacdn.com/stor3161-3730-4634-b432-396638643038/83989410.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-938504306871-nanlite-para-90-quick-open-90",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "522279066391",
-    "name": "Portkeys LH5P II 5.5\" HDMI in/out",
+    "name": "PORTKEYS LH5P II 5.5\" Touchscreen Monitor with Camera",
     "price": "17 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3131-6534-4132-b531-653831306265/68323900.jpg",
@@ -274,7 +272,7 @@
   },
   {
     "uid": "444946158801",
-    "name": "Portkeys BM5WR III 5.5\" HDMI in, SDI in/out",
+    "name": "PORTKEYS BM5 III WR 5.5\" HDMI Touchscreen Monitor with Camera Control",
     "price": "17 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6332-6166-4833-b035-313964316663/67701417.jpg",
@@ -302,7 +300,7 @@
   },
   {
     "uid": "941212690231",
-    "name": "Стойка Godox 260T",
+    "name": "Godox 260T",
     "price": "3 € / 1 день",
     "old_price": "4 € / 1 день",
     "img": "https://static.tildacdn.com/stor3232-6335-4639-a663-633661653266/97175511.jpg",
@@ -317,7 +315,7 @@
   {
     "uid": "298357657061",
     "name": "Manfrotto 035 Super Clamp",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6231-3062-4662-b261-373935393462/69135412.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-298357657061-manfrotto-035-super-clamp",
@@ -344,16 +342,15 @@
   },
   {
     "uid": "574607946591",
-    "name": "Zoom H5 4-Input / 4-Track Portable Handy Recorder",
+    "name": "Zoom H5 Handy recorder",
     "price": "9 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6665-6365-4437-b630-316133636162/55718951.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-574607946591-zoom-h5-4-input-4-track-portable-handy-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -365,17 +362,16 @@
     "img": "https://static.tildacdn.com/stor3231-6462-4339-b166-643334383534/30399822.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-880570824171-rode-videomic-ntg-hybrid",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "190791065641",
     "name": "SmallRig Ultra Slim 4K HDMI-HDMI 0,5 м",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3034-3637-4332-b866-303238306235/67872296.jpg",
     "url": "https://raskat.rent/sender/tproduct/666561140-190791065641-smallrig-ultra-slim-4k-hdmi-hdmi-05-m",
@@ -445,7 +441,7 @@
   {
     "uid": "770360585421",
     "name": "LanParte D-Tap Male to Female 1:4 Cable Splitter Hub",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3566-3732-4964-b636-613766346335/67367301.jpg",
     "url": "https://raskat.rent/power/tproduct/666561140-770360585421-lanparte-d-tap-male-to-female-14-cable-splitter-hub",
@@ -473,7 +469,7 @@
   },
   {
     "uid": "558949536901",
-    "name": "Накамерный монитор Lilliput H7 (HDMI in/out)",
+    "name": "Lilliput H7 7\" 4K HDMI Ultrabright On-Camera Monitor (HDMI in/out)",
     "price": "14 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3738-3862-4266-a431-623162343536/72493308.jpg",
@@ -530,7 +526,7 @@
   {
     "uid": "234410821961",
     "name": "Transcend RDF9 UHS-II Card Reader (SD, MicroSD, CF Type I/II)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3562-3863-4934-b138-353537306663/27513194.jpg",
     "url": "https://raskat.rent/cards/tproduct/666561140-234410821961-transcend-rdf9-uhs-ii-card-reader-sd-microsd-cf-type-iii",
@@ -544,7 +540,7 @@
   {
     "uid": "692367965431",
     "name": "Transcend CFast 2.0 RDF2 USB 3.1 Gen 1 Card Reader (CFast 2.0)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3766-6266-4163-a431-363563303137/21085187.jpg",
     "url": "https://raskat.rent/cards/tproduct/666561140-692367965431-transcend-cfast-20-rdf2-usb-31-gen-1-card-reader-cfast-20",
@@ -558,7 +554,7 @@
   {
     "uid": "575110320271",
     "name": "Nanlite PavoTube II 6C RGB LED Tube Light (10\")",
-    "price": "6,5 € / 1 день",
+    "price": "6.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6632-6364-4237-a134-393332666539/29126756.jpg",
     "url": "https://raskat.rent/videosvet/tproduct/666561140-575110320271-nanlite-pavotube-ii-6c-rgb-led-tube-light-10",
@@ -670,7 +666,7 @@
   {
     "uid": "446063070031",
     "name": "Переходное кольцо 72 - 77mm",
-    "price": "0,5 € / 1 день",
+    "price": "0.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3032-3163-4931-b564-393632386337/51698517.jpg",
     "url": "https://raskat.rent/optics_filter_rent/tproduct/666561140-446063070031-72-77mm",
@@ -685,30 +681,28 @@
   {
     "uid": "837906419131",
     "name": "Отражатель Godox 5 в 1 RFT-06 80x120 см",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6262-6666-4066-b234-376432623932/81648321.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-837906419131-godox-5-1-rft-06-80x120",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
   {
     "uid": "350840308431",
-    "name": "Magic arm el-a49",
+    "name": "Magic ARM EL-A49",
     "price": "2 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3463-6133-4465-a438-616461303132/38653322.png",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-350840308431-magic-arm-el-a49",
     "oos": false,
-    "category": "Аксессуары для камеры",
+    "category": "Адаптеры, грип, крепления",
     "category_path": [
-      "Адаптеры, грип, крепления",
-      "Аксессуары для камеры"
+      "Адаптеры, грип, крепления"
     ],
     "category_url": "/optics_adapter_rent"
   },
@@ -739,20 +733,6 @@
       "Стойки / Держатели"
     ],
     "category_url": "/stoiki_rent"
-  },
-  {
-    "uid": "744937887461",
-    "name": "Kenwood waterproof TH-F5 dual",
-    "price": "3,5 € / 1 день",
-    "old_price": "",
-    "img": "https://static.tildacdn.com/stor6633-6139-4831-a163-383235646131/13074676.jpg",
-    "url": "https://raskat.rent/intercom/tproduct/666561140-744937887461-kenwood-waterproof-th-f5-dual",
-    "oos": false,
-    "category": "Связь",
-    "category_path": [
-      "Связь"
-    ],
-    "category_url": "/intercom"
   },
   {
     "uid": "282073143011",
@@ -790,10 +770,9 @@
     "img": "https://static.tildacdn.com/stor3136-3034-4239-a565-633465393064/99928928.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-852966983651-zoom-ssh-6-stereo-shotgun-microphone-capsule-for-h5-h6-u-44-and-q8",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -813,7 +792,7 @@
   },
   {
     "uid": "798270628281",
-    "name": "Штатив E-Image GH06",
+    "name": "E-Image GH06",
     "price": "15 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3764-3433-4037-b663-383563336366/95971244.jpg",
@@ -870,7 +849,7 @@
   {
     "uid": "900798977711",
     "name": "Grids for Nanlite 30c",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3831-6561-4635-b134-346230313866/94780624.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-900798977711-grids-for-nanlite-30c",
@@ -891,7 +870,6 @@
     "oos": false,
     "category": "Специальное оборудование",
     "category_path": [
-      "Аксессуары для света",
       "Специальное оборудование"
     ],
     "category_url": "/spec_equip"
@@ -977,12 +955,11 @@
     "img": "https://static.tildacdn.com/stor3538-6266-4165-a530-323037376635/63875750.jpg",
     "url": "https://raskat.rent/spec_equip/tproduct/666561140-255513793201-feelworld-tp13a-teleprompter",
     "oos": false,
-    "category": "Специальное оборудование",
+    "category": "Монитор",
     "category_path": [
-      "Монитор",
-      "Специальное оборудование"
+      "Монитор"
     ],
-    "category_url": "/spec_equip"
+    "category_url": "/monitor"
   },
   {
     "uid": "800172500831",
@@ -1148,10 +1125,9 @@
     "img": "https://static.tildacdn.com/stor6238-6432-4564-b238-633762643331/78886450.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-300439919461-dji-mic",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -1200,7 +1176,7 @@
   {
     "uid": "950061730161",
     "name": "Sandbag 10kg",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "2 € / 1 день",
     "img": "https://static.tildacdn.com/stor6533-3136-4131-b565-373963626537/68936136.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-950061730161-sandbag-10kg",
@@ -1259,7 +1235,7 @@
     "uid": "594590897531",
     "name": "Avenger D600CB Mini Boom (длина выноса 1.2 м - 2.1 м)",
     "price": "5 € / 1 день",
-    "old_price": "6,5 € / 1 день",
+    "old_price": "6.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor3966-3166-4335-a462-326633396239/95615404.jpg",
     "url": "https://raskat.rent/stoiki_rent/tproduct/666561140-594590897531-avenger-d600cb-mini-boom-1-2-2-1",
     "oos": false,
@@ -1333,12 +1309,11 @@
     "img": "https://static.tildacdn.com/stor6430-3930-4637-b262-333236366339/11098655.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-598378608311-aputure-lantern-90-90",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "128019994881",
@@ -1502,17 +1477,16 @@
   {
     "uid": "439291897871",
     "name": "Софтбокс Aputure Light Dome II (90 диаметр)",
-    "price": "7,5 € / 1 день",
+    "price": "7.5 € / 1 день",
     "old_price": "10 € / 1 день",
     "img": "https://static.tildacdn.com/stor6438-6161-4364-b161-326261313062/70551471.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-439291897871-aputure-light-dome-ii-90",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "905771370851",
@@ -1522,10 +1496,9 @@
     "img": "https://static.tildacdn.com/stor3462-3332-4534-b365-366432636562/18760269.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-905771370851-black-solid-8x8-2-35m-x-2-35m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1537,10 +1510,9 @@
     "img": "https://static.tildacdn.com/stor6533-6161-4261-b333-653932336233/92358067.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-934583771461-grid-full-12x12-3-6m-x-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1609,10 +1581,9 @@
     "img": "https://static.tildacdn.com/stor3233-6363-4863-a262-383534333166/58124858.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-587444789431-smallrig-nano-clamp",
     "oos": false,
-    "category": "Аксессуары для камеры",
+    "category": "Адаптеры, грип, крепления",
     "category_path": [
-      "Адаптеры, грип, крепления",
-      "Аксессуары для камеры"
+      "Адаптеры, грип, крепления"
     ],
     "category_url": "/optics_adapter_rent"
   },
@@ -1639,10 +1610,9 @@
     "img": "https://static.tildacdn.com/stor3631-3164-4732-b933-363166393831/84694179.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-932334134631-18x24-45x60",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1654,17 +1624,16 @@
     "img": "https://static.tildacdn.com/stor6165-3730-4366-b861-366634373533/13202728.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-311587040241-24x36-60x90",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
   {
     "uid": "801205335111",
     "name": "Manfrotto 244N Variable Friction Magic Arm",
-    "price": "4,5 € / 1 день",
+    "price": "4.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6531-3261-4265-a365-653135336337/89592228.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-801205335111-manfrotto-244n-variable-friction-magic-arm",
@@ -1678,15 +1647,14 @@
   {
     "uid": "312029788311",
     "name": "Текстиль Grid quater 1/4 - 4x4' (120 см х 120 см)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3333-3539-4531-b164-323336396664/30906139.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-312029788311-grid-quater-1-4-4x4-120-120",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1698,10 +1666,9 @@
     "img": "https://static.tildacdn.com/stor3837-3665-4133-a162-666139343366/60948909.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-735838043101-4x4-120-120-floppy-cutter-120-240",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1709,7 +1676,7 @@
     "uid": "215842043951",
     "name": "Apple box (Full set of 4 boxes)",
     "price": "4 € / 1 день",
-    "old_price": "6,5 € / 1 день",
+    "old_price": "6.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor6162-3863-4033-b232-353962643161/44645445.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-215842043951-apple-box-full-set-of-4-boxes",
     "oos": false,
@@ -1783,11 +1750,11 @@
     "img": "https://static.tildacdn.com/stor6231-3163-4933-b433-306439303438/96725555.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-839239135601-aputure-fresnel-2x-attachment-for-ls120d-200x-300x-led-lights",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "366365929501",
@@ -1797,24 +1764,23 @@
     "img": "https://static.tildacdn.com/stor3135-3362-4164-a234-303036353035/39126667.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-366365929501-aputure-barndoors-grid-and-gel-holder",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "271558661441",
     "name": "Пенка со спицей Avenger (50x100см белая)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3034-3932-4066-b831-663666623765/38626219.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-271558661441-avenger-50x100",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -1864,7 +1830,7 @@
     "uid": "326715456831",
     "name": "Avenger D520L 40\" Extension Grip Arm",
     "price": "2 € / 1 день",
-    "old_price": "3,5 € / 1 день",
+    "old_price": "3.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor6263-3061-4239-b463-666265626434/23183127.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-326715456831-avenger-d520l-40-extension-grip-arm",
     "oos": false,
@@ -1896,11 +1862,11 @@
     "img": "https://static.tildacdn.com/stor3633-6232-4263-b530-633534623532/62670148.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-177880083311-aputure-spotlight-mount-set-with-36-lens",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "168085569011",
@@ -1924,10 +1890,9 @@
     "img": "https://static.tildacdn.com/stor3735-6265-4130-b433-343137663363/67915154.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-685416696171-rode-lavalier-ii-black",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -2009,10 +1974,9 @@
     "img": "https://static.tildacdn.com/stor3638-6163-4365-a664-373533396566/88849507.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-483522511461-audio-cable-jack-6-3-m-jack-6-3-m-1-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -2024,10 +1988,9 @@
     "img": "https://static.tildacdn.com/stor3761-3032-4432-a264-626165653839/98164084.jpg",
     "url": "https://raskat.rent/optics_m42_rent/tproduct/666561140-125173730721-carl-zeiss-jena-flektogon-35-mm-f-2-8-m42",
     "oos": false,
-    "category": "M42",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "M42"
+      "Оптика"
     ],
     "category_url": "/optics_m42_rent"
   },
@@ -2039,10 +2002,9 @@
     "img": "https://static.tildacdn.com/stor3866-3164-4033-b563-633836373863/75407002.jpg",
     "url": "https://raskat.rent/optics_m42_rent/tproduct/666561140-936363981231-16-f-2-8-m42",
     "oos": false,
-    "category": "M42",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "M42"
+      "Оптика"
     ],
     "category_url": "/optics_m42_rent"
   },
@@ -2054,10 +2016,9 @@
     "img": "https://static.tildacdn.com/stor6363-6664-4832-a235-303332626136/47333721.jpg",
     "url": "https://raskat.rent/optics_m42_rent/tproduct/666561140-263568953051-cyclop-85mm-f1-5-m42",
     "oos": false,
-    "category": "M42",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "M42"
+      "Оптика"
     ],
     "category_url": "/optics_m42_rent"
   },
@@ -2069,10 +2030,9 @@
     "img": "https://static.tildacdn.com/stor3038-3466-4638-b139-373833623932/19542818.jpg",
     "url": "https://raskat.rent/optics_m42_rent/tproduct/666561140-994274373601-helios-44m-4-m42",
     "oos": false,
-    "category": "M42",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "M42"
+      "Оптика"
     ],
     "category_url": "/optics_m42_rent"
   },
@@ -2164,7 +2124,7 @@
   {
     "uid": "235046166131",
     "name": "Godox X2 2.4 GHz TTL беспроводной синхронизатор (для Canon)",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3730-3936-4930-b133-663234393535/25895664.jpg",
     "url": "https://raskat.rent/impulse_rent/tproduct/666561140-235046166131-godox-x2-2-4-ghz-ttl-canon",
@@ -2178,7 +2138,7 @@
   {
     "uid": "662506368461",
     "name": "Godox X2 2.4 GHz TTL беспроводной синхронизатор (для Sony)",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3730-3936-4930-b133-663234393535/25895664.jpg",
     "url": "https://raskat.rent/impulse_rent/tproduct/666561140-662506368461-godox-x2-2-4-ghz-ttl-sony",
@@ -2192,7 +2152,7 @@
   {
     "uid": "174004132991",
     "name": "Godox X2 2.4 GHz TTL беспроводной синхронизатор (для Nikon)",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3730-3936-4930-b133-663234393535/25895664.jpg",
     "url": "https://raskat.rent/impulse_rent/tproduct/666561140-174004132991-godox-x2-2-4-ghz-ttl-nikon",
@@ -2248,7 +2208,7 @@
   {
     "uid": "416820425131",
     "name": "Godox X2 2.4 GHz TTL беспроводной синхронизатор (для Fujifim)",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3730-3936-4930-b133-663234393535/25895664.jpg",
     "url": "https://raskat.rent/impulse_rent/tproduct/666561140-416820425131-godox-x2-2-4-ghz-ttl-fujifim",
@@ -2295,10 +2255,9 @@
     "img": "https://static.tildacdn.com/stor3738-3735-4632-b166-636237656239/98423428.jpg",
     "url": "https://raskat.rent/optics_rent/tproduct/666561140-101088156611-zeiss-compact-prime-cp-2-85mm-t2-1-pl-mount",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/optics_rent"
   },
@@ -2310,10 +2269,9 @@
     "img": "https://static.tildacdn.com/stor6661-3130-4363-a466-366335336163/64948614.jpg",
     "url": "https://raskat.rent/optics_rent/tproduct/666561140-416434233971-zeiss-compact-prime-cp-2-25mm-t2-9-pl-mount",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/optics_rent"
   },
@@ -2325,10 +2283,9 @@
     "img": "https://static.tildacdn.com/stor3866-6533-4630-b433-383736663962/48440852.jpg",
     "url": "https://raskat.rent/optics_rent/tproduct/666561140-180267301141-zeiss-compact-prime-cp-2-15mm-t2-9-pl-mount",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/optics_rent"
   },
@@ -2340,10 +2297,9 @@
     "img": "https://static.tildacdn.com/stor6530-3337-4762-b139-303135313564/13170855.jpg",
     "url": "https://raskat.rent/optics_rent/tproduct/666561140-373648829131-zeiss-compact-prime-cp-2-35mm-t2-1-pl-mount",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/optics_rent"
   },
@@ -2355,10 +2311,9 @@
     "img": "https://static.tildacdn.com/stor6263-6237-4638-b465-633635376137/10523845.jpg",
     "url": "https://raskat.rent/optics_rent/tproduct/666561140-583606253781-zeiss-compact-prime-cp-2-50mm-t2-1-pl-mount",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/optics_rent"
   },
@@ -2399,12 +2354,11 @@
     "img": "https://static.tildacdn.com/stor6536-3734-4461-a364-353562616135/39247664.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-978001674481-aputure-light-dome-150-150",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "918222621001",
@@ -2429,10 +2383,9 @@
     "img": "https://static.tildacdn.com/stor6262-6666-4066-b234-376432623932/81648321.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-807016572811-godox-rft-05-5-1-100x150",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -2474,7 +2427,6 @@
     "oos": false,
     "category": "Специальное оборудование",
     "category_path": [
-      "Сумки / Тележки",
       "Специальное оборудование"
     ],
     "category_url": "/spec_equip"
@@ -2510,10 +2462,10 @@
   {
     "uid": "132406227521",
     "name": "Крепление SmallRig 1898C 15mm Rod Clamp with ARRI Rosette Mount",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3466-3835-4166-b563-366130386638/31124499.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/kreplenie-smallrig-1898c-15mm-rod-clamp-with-arri-rosette-mount",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2524,10 +2476,10 @@
   {
     "uid": "682636876591",
     "name": "Удлинитель SmallRig Extension Arm with 2 Arri Rosettes 1807B",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3565-3336-4262-b438-633061343365/73278123.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/udlinitel-smallrig-extension-arm-with-2-arri-rosettes-1807b",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2538,10 +2490,10 @@
   {
     "uid": "565280150551",
     "name": "Ручка SmallRig 1963 Handle ARRI Rosette (Rubber)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6465-6634-4962-b737-346239323634/13402207.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/ruchka-smallrig-1963-handle-arri-rosette-rubber",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2555,7 +2507,7 @@
     "price": "4 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3262-3664-4062-b364-636561653830/30506521.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/bazovaya-ploschadka-tilta-tiltaing-15mm-lws-type-vi-chernaya-blackmagic-pocket-6k",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2569,7 +2521,7 @@
     "price": "4 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3436-3839-4430-b766-643736373535/96336589.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/bazovaya-ploschadka-tilta-tiltaing-15mm-lws-type-iv-red-komodo",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2583,7 +2535,7 @@
     "price": "4 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3730-3838-4334-a238-616333373333/37308341.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/tilta-15mm-lws-baseplate-type-i-blackmagic-pocket-4k",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2597,7 +2549,7 @@
     "price": "4 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6232-3364-4039-a563-376161366533/88988870.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/bazovaya-ploschadka-tilta-tiltaing-15mm-lws-type-iv-sony-fx3-30",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2611,7 +2563,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3137-3239-4039-b330-356662613934/55604054.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/napravlyayuschie-smallrig-1053-2-sht-30-cm",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2625,7 +2577,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3866-3366-4936-b139-336237343731/76015712.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/napravlyayuschie-smallrig-1051-2-sht-20-cm",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2639,7 +2591,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3836-3030-4561-a233-333165383963/13103873.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/ruchka-nato-tilta-ta-qrth7-tg",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2653,7 +2605,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6336-3366-4239-b735-366235656536/32929727.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/ruchka-tilta-quick-release-top-handle",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2667,7 +2619,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3930-3261-4362-b137-316338653166/59248929.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/ruchka-tiltaing-rotatable-top-handle",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2695,7 +2647,7 @@
     "price": "4 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6231-3933-4163-b830-316530323231/10053421.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/batareynaya-ploschadka-tilta-tiltaing-battery-plate-v2-v-mount",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2765,7 +2717,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6634-3738-4566-a230-636663613361/16947354.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/kreplenie-dlya-telefona-na-kameru-tilta-rotatable-phone-mounting-bracket",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2779,7 +2731,7 @@
     "price": "2 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3361-3439-4461-a466-313661613466/48576652.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/kreplenie-dlya-powerbank-tilta-universal-power-bank-holder-ta-upbh-b-quick-release",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2793,7 +2745,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6161-3864-4762-a263-636531363534/69664265.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/kreplenie-tilta-dlya-napravlyayuschey-15mm-nato-chernoe",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -2867,7 +2819,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -2895,12 +2846,11 @@
     "img": "https://static.tildacdn.com/stor3563-3236-4465-b434-653837323063/73144009.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-806686658961-aputure-light-dome-mini-iii-58",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "319878840411",
@@ -2910,12 +2860,11 @@
     "img": "https://static.tildacdn.com/stor3964-3536-4939-a235-386338323034/35242438.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-319878840411-aputure-lantern-65-65",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "796661356741",
@@ -2925,10 +2874,9 @@
     "img": "https://static.tildacdn.com/stor6135-3032-4434-a536-633333343662/20206023.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-796661356741-avenger-double-scrim-black-60-x-90-cm-24-x-36-in",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -2940,10 +2888,9 @@
     "img": "https://static.tildacdn.com/stor3335-6163-4266-b138-353364616465/71910854.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-448439805241-avenger-single-scrim-black-60-x-90-cm-24-x-36-in",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -2983,11 +2930,11 @@
     "img": "https://static.tildacdn.com/stor3733-6639-4266-a336-316336373938/41820790.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-145426235661-aputure-spotlight-mount-iris",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "560751999561",
@@ -2997,11 +2944,11 @@
     "img": "https://static.tildacdn.com/stor6331-6366-4365-b165-666135373934/11157314.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-560751999561-aputure-spotlight-max-10-piece-gobo-kit-size-a",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "430365257101",
@@ -3062,7 +3009,7 @@
   {
     "uid": "670899887551",
     "name": "Мини Влог Штатив Ulanzi MT-44 Extendable Vlog Tripod",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6139-6364-4636-b361-306538626261/99935504.jpg",
     "url": "https://raskat.rent/tripod/tproduct/666561140-670899887551-ulanzi-mt-44-extendable-vlog-tripod",
@@ -3112,7 +3059,6 @@
     "category": "Sony E-MOUNT",
     "category_path": [
       "Оптика",
-      "АНАМОРФОТ",
       "Sony E-MOUNT"
     ],
     "category_url": "/optics_sony_rent"
@@ -3128,7 +3074,6 @@
     "category": "MFT M4/3",
     "category_path": [
       "Оптика",
-      "АНАМОРФОТ",
       "MFT M4/3"
     ],
     "category_url": "/optics_mft_rent"
@@ -3171,7 +3116,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon RF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -3207,55 +3151,52 @@
   {
     "uid": "874204486141",
     "name": "Рама разборная 4x4\" (120 х 120 см) без текстиля",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6430-6537-4331-b834-303765313332/31029833.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-874204486141-4x4-120-120",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
   {
     "uid": "487330108641",
     "name": "Текстиль Grid Full - 4x4' (120 см х 120 см)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3333-3539-4531-b164-323336396664/30906139.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-487330108641-grid-full-4x4-120-120",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
   {
     "uid": "873666929151",
     "name": "Текстиль Lightgrid 1/2 - 4x4' (120 см х 120 см)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3333-3539-4531-b164-323336396664/30906139.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-873666929151-lightgrid-1-2-4x4-120-120",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
   {
     "uid": "297435163851",
     "name": "Tilta NATO Rail Mount (Titanium Gray, 0.7\")",
-    "price": "4 € / 1 день",
+    "price": "1 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6363-6364-4464-b361-393161646137/96615609.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/tilta-nato-rail-mount-titanium-gray-0-7",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -3273,7 +3214,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "КОМПЕНДИУМ",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -3288,7 +3228,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "КОМПЕНДИУМ",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -3355,7 +3294,7 @@
     "uid": "292926460831",
     "name": "Avenger E250 5/8\" Baby Pin",
     "price": "1 € / 1 день",
-    "old_price": "1,5 € / 1 день",
+    "old_price": "1.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor3535-3763-4436-b538-313434613362/54896584.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-292926460831-avenger-e250-5-8-baby-pin",
     "oos": false,
@@ -3425,7 +3364,7 @@
     "uid": "157465543971",
     "name": "Avenger D500B 20\" Extension Grip Arm",
     "price": "2 € / 1 день",
-    "old_price": "3,5 € / 1 день",
+    "old_price": "3.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor3165-3965-4032-a566-356566323331/93146770.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-157465543971-avenger-d500b-20-extension-grip-arm",
     "oos": false,
@@ -3438,14 +3377,13 @@
   {
     "uid": "268454995171",
     "name": "Ulanzi-R094 Metal Super Clamp with 360° Ball Head Magic Arm",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "3 € / 1 день",
     "img": "https://static.tildacdn.com/stor3665-3631-4936-a237-373238343535/73602777.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-268454995171-ulanzi-r094-metal-super-clamp-with-360-ball-head-magic-arm",
     "oos": false,
     "category": "Адаптеры, грип, крепления",
     "category_path": [
-      "Аксессуары для камеры",
       "Адаптеры, грип, крепления"
     ],
     "category_url": "/optics_adapter_rent"
@@ -3514,10 +3452,9 @@
     "img": "https://static.tildacdn.com/stor6431-6337-4036-b731-376231386266/44154013.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-561525466472-dji-mic-2",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -3572,11 +3509,10 @@
     "img": "https://static.tildacdn.com/stor3336-6263-4432-b361-633733613431/21793620.jpg",
     "url": "https://raskat.rent/optics_ef_rent/tproduct/666561140-157454612062-dzofilm-vespid-prime-7-lens-kit-v2-pl-amp-ef-mounts",
     "oos": false,
-    "category": "PL",
+    "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "Canon EF",
-      "PL"
+      "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
   },
@@ -3630,11 +3566,9 @@
     "img": "https://static.tildacdn.com/stor3537-6434-4235-a331-303237646664/53518841.jpg",
     "url": "https://raskat.rent/anamorphic_rent/tproduct/666561140-217332719942-blazar-lens-remus-45-65-100mm-t2-0-full-frame-1-5x-anamorphic-arri-pl-amber-flare",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "АНАМОРФОТ",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/anamorphic_rent"
   },
@@ -3690,7 +3624,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -3703,10 +3636,9 @@
     "img": "https://static.tildacdn.com/stor3937-3963-4138-b063-646635373639/25171378.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-345647128482-zoom-h6-all-black-6-input-6-track-portable-handy-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -3718,10 +3650,9 @@
     "img": "https://static.tildacdn.com/stor3762-6566-4135-b836-393332656166/47459224.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-783639912122-jbl-xtreme-4",
     "oos": false,
-    "category": "НАУШНИКИ И КОЛОНКИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "НАУШНИКИ И КОЛОНКИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -3761,11 +3692,11 @@
     "img": "https://static.tildacdn.com/stor3935-3566-4337-b863-663331623966/28453618.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-244279879362-aputure-f10-fresnel-attachment-for-ls-600d-amp-ls-1200d-pro-led-lights",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "679571358502",
@@ -3806,7 +3737,6 @@
     "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "PL",
       "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
@@ -3819,11 +3749,10 @@
     "img": "https://static.tildacdn.com/stor6237-3139-4432-b531-643966353864/92419080.jpg",
     "url": "https://raskat.rent/optics_ef_rent/tproduct/666561140-511244236122-dzofilm-vespid-25mm-t2-1-lens-pl-amp-ef-mounts",
     "oos": false,
-    "category": "PL",
+    "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "Canon EF",
-      "PL"
+      "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
   },
@@ -3835,11 +3764,10 @@
     "img": "https://static.tildacdn.com/stor3361-3438-4963-b833-373361613561/52474568.jpg",
     "url": "https://raskat.rent/optics_ef_rent/tproduct/666561140-508551396382-dzofilm-vespid-35mm-t2-1-lens-pl-amp-ef-mounts",
     "oos": false,
-    "category": "PL",
+    "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "Canon EF",
-      "PL"
+      "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
   },
@@ -3854,7 +3782,6 @@
     "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "PL",
       "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
@@ -3867,11 +3794,10 @@
     "img": "https://static.tildacdn.com/stor6638-3063-4332-b866-363138393434/70747408.jpg",
     "url": "https://raskat.rent/optics_ef_rent/tproduct/666561140-445753030752-dzofilm-vespid-75mm-t2-1-lens-pl-amp-ef-mounts",
     "oos": false,
-    "category": "PL",
+    "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "Canon EF",
-      "PL"
+      "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
   },
@@ -3886,7 +3812,6 @@
     "category": "Canon EF",
     "category_path": [
       "Оптика",
-      "PL",
       "Canon EF"
     ],
     "category_url": "/optics_ef_rent"
@@ -3958,7 +3883,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "СВЕТОФИЛЬТРЫ",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -3966,7 +3890,7 @@
   {
     "uid": "587444028432",
     "name": "Фотофонарь AndyLight v.1",
-    "price": "5,5 € / 1 день",
+    "price": "5.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3135-3161-4230-b936-353531316132/84018012.jpg",
     "url": "https://raskat.rent/videosvet/tproduct/666561140-587444028432-fotofonar-andylight-v1",
@@ -3980,7 +3904,7 @@
   {
     "uid": "413200178062",
     "name": "Фотофонарь AndyLight v.2",
-    "price": "6,5 € / 1 день",
+    "price": "6.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6231-6330-4831-a333-396635366236/20055860.jpg",
     "url": "https://raskat.rent/videosvet/tproduct/666561140-413200178062-fotofonar-andylight-v2",
@@ -3999,10 +3923,9 @@
     "img": "https://static.tildacdn.com/stor6261-3139-4065-a262-666534346135/75395306.jpg",
     "url": "https://raskat.rent/optics_m42_rent/tproduct/666561140-470607555342-carl-zeiss-18mm-f-4-distagon-t-lens",
     "oos": false,
-    "category": "M42",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "M42"
+      "Оптика"
     ],
     "category_url": "/optics_m42_rent"
   },
@@ -4074,10 +3997,9 @@
     "img": "https://static.tildacdn.com/stor6132-6133-4838-a465-346534616439/66130986.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-204021702112-avenger-h800m-modular-overhead-frame-8-x8-2-4m-2-4m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -4098,7 +4020,7 @@
   {
     "uid": "944578686502",
     "name": "Accu-Cable Safety SC5B 5mm 45kg",
-    "price": "0,5 € / 1 день",
+    "price": "0.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6635-3237-4666-b261-666137373532/59279637.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-944578686502-accu-cable-safety-sc5b-5mm-45kg",
@@ -4154,7 +4076,7 @@
   {
     "uid": "741921537112",
     "name": "Manfrotto Autopole 077B Black (длина 1м - 1.7м)",
-    "price": "4,5 € / 1 день",
+    "price": "4.5 € / 1 день",
     "old_price": "7 € / 1 день",
     "img": "https://static.tildacdn.com/stor3836-6339-4236-a334-613661373531/55732961.jpg",
     "url": "https://raskat.rent/stoiki_rent/tproduct/666561140-741921537112-manfrotto-autopole-077b-black-1-1-7",
@@ -4168,7 +4090,7 @@
   {
     "uid": "955844524302",
     "name": "Manfrotto Autopole2 432-2,7B Black (длина 1.5м - 2.7м)",
-    "price": "4,5 € / 1 день",
+    "price": "4.5 € / 1 день",
     "old_price": "7 € / 1 день",
     "img": "https://static.tildacdn.com/stor3836-6339-4236-a334-613661373531/55732961.jpg",
     "url": "https://raskat.rent/stoiki_rent/tproduct/666561140-955844524302-manfrotto-autopole2-432-2-7b-black-1-5-2-7",
@@ -4406,7 +4328,7 @@
   },
   {
     "uid": "905413724972",
-    "name": "Накамерный монитор Lilliput H7 (HDMI in/out, SDI in/out)",
+    "name": "Lilliput H7 7\" 4K HDMI Ultrabright On-Camera Monitor (HDMI in/out, SDI in/out)",
     "price": "16 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3738-3862-4266-a431-623162343536/72493308.jpg",
@@ -4568,12 +4490,11 @@
     "img": "https://static.tildacdn.com/stor6531-3830-4130-a637-306362333333/23858591.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-746568679402-nanlite-lantern-softbox-lt-120",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "187918192072",
@@ -4611,12 +4532,11 @@
     "img": "https://static.tildacdn.com/stor6131-3538-4137-b862-663032376237/21491551.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-529839799112-aputure-ls60",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "613627400872",
@@ -4642,7 +4562,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon RF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -4739,10 +4658,9 @@
     "img": "https://static.tildacdn.com/stor6435-3130-4932-b736-366435633733/81635152.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-524006317282-sennheiser-mke-600-shotgun-microphone",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4754,10 +4672,9 @@
     "img": "https://static.tildacdn.com/stor3035-3136-4032-a337-373666613032/80799476.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-910153268132-rode-blimp-windshield-and-rycote-shock-mount-suspension-system-for-shotgun-microphones",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4769,11 +4686,9 @@
     "img": "https://static.tildacdn.com/stor3763-3439-4532-b234-383734636334/21094961.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-494921783692-rode-podmic-usb-and-xlr-dynamic-broadcast-microphone",
     "oos": false,
-    "category": "ПОДКАСТ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ",
-      "ПОДКАСТ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4809,7 +4724,7 @@
     "uid": "642311276482",
     "name": "Avenger C482 LP Swivel Eye Coupler",
     "price": "2 € / 1 день",
-    "old_price": "2,5 € / 1 день",
+    "old_price": "2.5 € / 1 день",
     "img": "https://static.tildacdn.com/stor3333-6133-4236-b330-336563303339/66305202.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-642311276482-avenger-c482-lp-swivel-eye-coupler",
     "oos": false,
@@ -4822,22 +4737,21 @@
   {
     "uid": "932759917372",
     "name": "Avenger F900 Baby Triple Header",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "5 € / 1 день",
     "img": "https://static.tildacdn.com/stor6666-3464-4933-b364-373831323566/39015207.jpg",
     "url": "https://raskat.rent/stoiki_rent/tproduct/666561140-932759917372-avenger-f900-baby-triple-header",
     "oos": false,
-    "category": "Стойки / Держатели",
+    "category": "Адаптеры, грип, крепления",
     "category_path": [
-      "Адаптеры, грип, крепления",
-      "Стойки / Держатели"
+      "Адаптеры, грип, крепления"
     ],
-    "category_url": "/stoiki_rent"
+    "category_url": "/optics_adapter_rent"
   },
   {
     "uid": "715672333602",
     "name": "Avenger C4486 Truss Support 200-400",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "6 € / 1 день",
     "img": "https://static.tildacdn.com/stor3938-3365-4435-b735-336232613033/98214095.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-715672333602-avenger-c4486-truss-support-200-400",
@@ -4851,7 +4765,7 @@
   {
     "uid": "779929461272",
     "name": "Avenger C4461 MP Eye Coupler",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6463-6264-4335-b733-633764306235/34366767.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-779929461272-avenger-c4461-mp-eye-coupler",
@@ -4865,15 +4779,14 @@
   {
     "uid": "566729058822",
     "name": "Cable XLR (Female - Male) - PRO snake TPM 1,0 (1 m)",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6437-6536-4834-a633-383837653561/18318781.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-566729058822-cable-xlr-female-male-pro-snake-tpm-1-0-1-m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4885,25 +4798,23 @@
     "img": "https://static.tildacdn.com/stor3363-3065-4830-a334-386661386235/63905567.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-148020648242-cable-xlr-female-male-pro-snake-tpm-6-0-6-m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "729997391752",
     "name": "Cable XLR (Female - Male) - PRO snake TPM 10 (10 m)",
-    "price": "3,5 € / 1 день",
+    "price": "3.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6133-6363-4231-b761-383632353134/95777784.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-729997391752-cable-xlr-female-male-pro-snake-tpm-10-10-m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4957,10 +4868,9 @@
     "img": "https://static.tildacdn.com/stor3737-3463-4230-a438-303836363461/76164236.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-123198207072-avenger-h9000-butterfly-pipe-corner-kit-12-x12-3-6m-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -4972,10 +4882,9 @@
     "img": "https://static.tildacdn.com/stor3634-6333-4462-a531-656238313930/31551943.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-762651486652-rode-hs2-p-large",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -4987,26 +4896,23 @@
     "img": "https://static.tildacdn.com/stor6266-3665-4132-b136-666435383838/54839277.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-944542034292-dji-lavalier-microphone",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "944451668022",
     "name": "RODE PSA1+ Professional Studio Arm",
-    "price": "6,5 € / 1 день",
+    "price": "6.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6163-3366-4333-a233-373136336663/59909456.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-944451668022-rode-psa1-professional-studio-arm",
     "oos": false,
-    "category": "ПОДКАСТ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ",
-      "ПОДКАСТ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -5018,10 +4924,9 @@
     "img": "https://static.tildacdn.com/stor3238-6436-4431-a534-383762623334/10207906.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-817520106302-rode-boompole-pro",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -5033,10 +4938,9 @@
     "img": "https://static.tildacdn.com/stor6461-3632-4132-b634-363839376437/26497363.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-697348343802-ultrabounce-white-black-8x8-2-35m-x-2-35m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5048,10 +4952,9 @@
     "img": "https://static.tildacdn.com/stor3936-3333-4432-a238-303462646361/64275814.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-408000972882-silent-grid-1-2-8x8-2-35m-x-2-35m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5063,10 +4966,9 @@
     "img": "https://static.tildacdn.com/stor3662-6264-4339-b533-373230666166/67356344.png",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-327008887282-silk-8x8-2-35m-x-2-35m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5078,10 +4980,9 @@
     "img": "https://static.tildacdn.com/stor3366-3937-4865-b035-346465356238/47421844.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-217981730132-ultrabounce-floppy-100-cm-x-100-cm",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5093,10 +4994,9 @@
     "img": "https://static.tildacdn.com/stor6435-6135-4263-b266-643939643766/96260327.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-717533022102-silver-soft-8x8-2-35m-x-2-35m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5124,7 +5024,6 @@
     "oos": false,
     "category": "Специальное оборудование",
     "category_path": [
-      "Аксессуары для света",
       "Специальное оборудование"
     ],
     "category_url": "/spec_equip"
@@ -5224,7 +5123,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -5251,12 +5149,11 @@
     "img": "https://static.tildacdn.com/stor3437-6436-4863-a665-396538643039/24521406.png",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-510880504602-double-menace-arm-kit",
     "oos": false,
-    "category": "Адаптеры, грип, крепления",
+    "category": "Стойки / Держатели",
     "category_path": [
-      "Стойки / Держатели",
-      "Адаптеры, грип, крепления"
+      "Стойки / Держатели"
     ],
-    "category_url": "/optics_adapter_rent"
+    "category_url": "/stoiki_rent"
   },
   {
     "uid": "586399196122",
@@ -5312,7 +5209,6 @@
     "category": "MFT M4/3",
     "category_path": [
       "Оптика",
-      "АНАМОРФОТ",
       "MFT M4/3"
     ],
     "category_url": "/optics_mft_rent"
@@ -5320,7 +5216,7 @@
   {
     "uid": "419797941392",
     "name": "Удлинитель бытовой - 4м",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "2 € / 1 день",
     "img": "https://static.tildacdn.com/stor3537-3263-4234-a566-333161343932/10837288.png",
     "url": "https://raskat.rent/power/tproduct/666561140-419797941392-udlinitel-bytovoi---4m",
@@ -5353,13 +5249,11 @@
     "img": "https://static.tildacdn.com/stor3862-6461-4138-b639-633661623861/32067444.jpg",
     "url": "https://raskat.rent/monitor/tproduct/666561140-982846314472-e-mi-4k-laser-projektor-150",
     "oos": false,
-    "category": "Монитор",
+    "category": "Специальное оборудование",
     "category_path": [
-      "Специальное оборудование",
-      "НОУТБУКИ, АЙПАДЫ, ПРОЕКТОРЫ",
-      "Монитор"
+      "Специальное оборудование"
     ],
-    "category_url": "/monitor"
+    "category_url": "/spec_equip"
   },
   {
     "uid": "574704460012",
@@ -5399,7 +5293,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "ПЕРЕХОДНИКИ / АДАПТЕРЫ",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -5412,11 +5305,9 @@
     "img": "https://static.tildacdn.com/stor3935-3730-4536-b133-316264323933/52249159.jpg",
     "url": "https://raskat.rent/anamorphic_rent/tproduct/666561140-628379888322-atlas-lens-co-mercury-t2-2-1-5x-anamorphic-prime-3-lens-set-pl",
     "oos": false,
-    "category": "PL",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "АНАМОРФОТ",
-      "PL"
+      "Оптика"
     ],
     "category_url": "/anamorphic_rent"
   },
@@ -5437,15 +5328,14 @@
   {
     "uid": "681100929792",
     "name": "Smallrig Mini V mount battery plate with clamp",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3564-6561-4461-b630-323635343464/46426059.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-681100929792-smallrig-mini-v-mount-battery-plate-with-clamp",
     "oos": false,
-    "category": "Аксессуары для камеры",
+    "category": "Адаптеры, грип, крепления",
     "category_path": [
-      "Адаптеры, грип, крепления",
-      "Аксессуары для камеры"
+      "Адаптеры, грип, крепления"
     ],
     "category_url": "/optics_adapter_rent"
   },
@@ -5459,7 +5349,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Sony E-MOUNT",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -5467,7 +5356,7 @@
   {
     "uid": "174320344112",
     "name": "Avenger C4462-1 MP Eye Coupler",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6433-6134-4664-b130-633132386530/57085190.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-174320344112-avenger-c4462-1-mp-eye-coupler",
@@ -5503,7 +5392,6 @@
     "category": "Sony E-MOUNT",
     "category_path": [
       "Оптика",
-      "АНАМОРФОТ",
       "Sony E-MOUNT"
     ],
     "category_url": "/optics_sony_rent"
@@ -5558,16 +5446,15 @@
     "img": "https://static.tildacdn.com/stor3631-6464-4734-a431-363262383963/59353560.png",
     "url": "https://raskat.rent/sound/tproduct/666561140-937610002582-dji-mic-mini",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "760934432182",
-    "name": "Canon Mount Adapter EF-EOS R",
+    "name": "Canon Mount Adapter RF - EF",
     "price": "5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3935-6364-4361-b034-396365353236/67273075.jpg",
@@ -5589,7 +5476,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Sony E-MOUNT",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -5611,7 +5497,7 @@
   {
     "uid": "543595486922",
     "name": "SmallRig Ultra Slim 4K HDMI-Micro HDMI 0,5 м",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6463-3034-4536-b263-666661613636/92150677.jpg",
     "url": "https://raskat.rent/sender/tproduct/666561140-543595486922-smallrig-ultra-slim-4k-hdmi-micro-hdmi-05-m",
@@ -5702,7 +5588,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Sony E-MOUNT",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -5727,7 +5612,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3132-3561-4737-b864-643832643262/37390867.png",
-    "url": "",
+    "url": "https://raskat.rent/noutbuki-aypady-proektory/anker-555-usb-c-hub-8-in-1-sd-card-reader",
     "oos": false,
     "category": "НОУТБУКИ, АЙПАДЫ, ПРОЕКТОРЫ",
     "category_path": [
@@ -5743,10 +5628,9 @@
     "img": "https://static.tildacdn.com/stor6265-6364-4138-a232-396166313833/98275320.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-684197019282-zoom-livetrak-l-8-portable-8-channel-digital-mixer-and-multitrack-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -5758,10 +5642,9 @@
     "img": "https://static.tildacdn.com/stor3936-3334-4565-a336-363333616363/88672139.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-807416924432-shure-sm58-lc-cardioid-dynamic-microphone",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -5782,10 +5665,10 @@
   {
     "uid": "599248718052",
     "name": "SmallRig Mini Matte Box Pro",
-    "price": "6,5 € / 1 день",
+    "price": "6.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3035-6164-4638-b133-643935633839/72095134.jpg",
-    "url": "",
+    "url": "https://raskat.rent/kompendium/smallrig-mini-matte-box-pro",
     "oos": false,
     "category": "КОМПЕНДИУМ",
     "category_path": [
@@ -5796,10 +5679,10 @@
   {
     "uid": "817786359822",
     "name": "Tilta Tiltaing Mini Matte Box",
-    "price": "7,5 € / 1 день",
+    "price": "7.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6636-3638-4737-a131-333038336133/18677782.jpg",
-    "url": "",
+    "url": "https://raskat.rent/kompendium/tilta-tiltaing-mini-matte-box",
     "oos": false,
     "category": "КОМПЕНДИУМ",
     "category_path": [
@@ -5843,10 +5726,9 @@
     "img": "https://static.tildacdn.com/stor3462-3332-4534-b365-366432636562/18760269.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-682332179192-black-solid-fr-12x12-3-6m-x-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5858,10 +5740,9 @@
     "img": "https://static.tildacdn.com/stor6362-6539-4066-a435-313636653135/25365039.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-468730944502-silent-light-grid-cloth-2-0-stops-12x12-3-6m-x-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5873,10 +5754,9 @@
     "img": "https://static.tildacdn.com/stor3233-3137-4430-b333-333234333230/93612631.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-790238856432-overhead-fabric-silver-lame-12x12-3-6m-x-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5888,10 +5768,9 @@
     "img": "https://static.tildacdn.com/stor6461-3632-4132-b634-363839376437/26497363.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-250655172232-ultrabounce-white-black-12x12-3-6m-x-3-6m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -5996,7 +5875,7 @@
   {
     "uid": "966414197192",
     "name": "Extension cord on a reel, 50m",
-    "price": "5,5 € / 1 день",
+    "price": "5.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3332-3166-4161-a565-656134356561/71877734.jpg",
     "url": "https://raskat.rent/power/tproduct/666561140-966414197192-extension-cord-on-a-reel-50m",
@@ -6073,10 +5952,9 @@
     "img": "https://static.tildacdn.com/stor3964-6238-4233-a530-656662646332/25335864.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-813552189622-jack-3-5mm-to-jack-3-5mm-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6088,10 +5966,9 @@
     "img": "https://static.tildacdn.com/stor3332-6662-4236-b436-636439316232/16888266.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-195815578122-jack-3-5mm-to-xlr-3-pin-m-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6103,10 +5980,9 @@
     "img": "https://static.tildacdn.com/stor6333-3063-4137-b938-656263383737/88847153.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-570872275192-mini-xlr-3-pin-m-to-xlr-3-pin-f-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6118,10 +5994,9 @@
     "img": "https://static.tildacdn.com/stor3634-3634-4635-b262-303565653462/79702968.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-512701188372-jack-3-5mm-to-mini-xlr-3-pin-m-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6133,10 +6008,9 @@
     "img": "https://static.tildacdn.com/stor3330-3930-4538-b831-376339366662/30081050.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-750254678042-jack-3-5mm-to-xlr-3-pin-f-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6148,10 +6022,9 @@
     "img": "https://static.tildacdn.com/stor3330-3930-4538-b831-376339366662/30081050.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-536307567812-jack-3-5mm-to-xlr-3-pin-f-cable-1-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6163,10 +6036,9 @@
     "img": "https://static.tildacdn.com/stor3132-3733-4361-b234-356530623332/72482854.png",
     "url": "https://raskat.rent/sound/tproduct/666561140-815743937382-jack-6-3mm-to-xlr-3-pin-f-cable-0-5m",
     "oos": false,
-    "category": "КОММУТАЦИЯ XLR / JACK / RCA",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "КОММУТАЦИЯ XLR / JACK / RCA"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6178,10 +6050,9 @@
     "img": "https://static.tildacdn.com/stor3738-3334-4764-b964-656534623363/34636080.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-925844915412-k-amp-m-210-9-tripod-microphone-stand-with-telescoping-boom",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6202,7 +6073,7 @@
   {
     "uid": "389814895772",
     "name": "Складной отражатель 1,5×2,0м (Black-White)",
-    "price": "4,5 € / 1 день",
+    "price": "4.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3465-3966-4237-b432-363365663764/55538226.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-389814895772-1-5-2-0-black-white",
@@ -6264,10 +6135,9 @@
     "img": "https://static.tildacdn.com/stor3935-3763-4435-a636-613634663764/36375593.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-895067471972-black-muslin-3-7m",
     "oos": false,
-    "category": "Рамы, текстиля, флаги",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Рамы, текстиля, флаги"
+      "Модификаторы света"
     ],
     "category_url": "/mod_lights_rent"
   },
@@ -6279,10 +6149,9 @@
     "img": "https://static.tildacdn.com/stor6239-3861-4263-b063-356130373364/83524401.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-398829376552-sennheiser-em-100-g3-wireless-uhf",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6294,10 +6163,9 @@
     "img": "https://static.tildacdn.com/stor3664-6265-4134-b335-666235653532/19783008.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-582357745752-sennheiser-ew-100-g4-wireless-microphone-system",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6309,10 +6177,9 @@
     "img": "https://static.tildacdn.com/stor3930-3033-4238-b537-646436343234/22147138.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-567907644032-sennheiser-ew-dp-camera-mount-digital-wireless-microphone-system",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6324,10 +6191,9 @@
     "img": "https://static.tildacdn.com/stor6530-3733-4465-b433-316262663463/69426193.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-350704038002-sennheiser-hs-2-headset-microphone-beige-locking-3-5mm-connector",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6339,10 +6205,9 @@
     "img": "https://static.tildacdn.com/stor6437-6337-4964-a562-303364623531/71382675.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-439578794242-sennheiser-me-2-lavalier-mic",
     "oos": false,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6368,10 +6233,9 @@
     "img": "https://static.tildacdn.com/stor6432-3731-4834-b731-666139626163/24895997.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-176921699372-zoom-h6essential-6-track-32-bit-float-portable-audio-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6408,7 +6272,7 @@
     "name": "Sony Alpha a6000 Mirrorless Digital Camera",
     "price": "15 € / 1 день",
     "old_price": "",
-    "img": "https://static.tildacdn.com/stor3136-3532-4161-b238-633034323234/64019579.jpg",
+    "img": "https://static.tildacdn.com/stor3666-6231-4863-b537-333931626538/15816416.jpg",
     "url": "https://raskat.rent/camera/tproduct/666561140-157487593882-sony-alpha-a6000-mirrorless-digital-camera",
     "oos": false,
     "category": "Камера",
@@ -6439,10 +6303,9 @@
     "img": "https://static.tildacdn.com/stor3763-6361-4761-b038-363136363161/99873791.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-295430809432-rode-boompole-holder",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6459,21 +6322,6 @@
       "Камера"
     ],
     "category_url": "/camera"
-  },
-  {
-    "uid": "981427555002",
-    "name": "Marantz Professional PMD661 MKII Professional Portable Flash Field Recorder",
-    "price": "10 € / 1 день",
-    "old_price": "",
-    "img": "https://static.tildacdn.com/stor3935-3762-4361-a235-663837346131/14666044.jpg",
-    "url": "https://raskat.rent/sound/tproduct/666561140-981427555002-marantz-professional-pmd661-mkii-professional-portable-flash-field-recorder",
-    "oos": false,
-    "category": "РЕКОРДЕРЫ",
-    "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
-    ],
-    "category_url": "/sound"
   },
   {
     "uid": "312503148052",
@@ -6497,11 +6345,9 @@
     "img": "https://static.tildacdn.com/stor3937-3531-4861-b431-376265386330/32288958.jpg",
     "url": "https://raskat.rent/anamorphic_rent/tproduct/666561140-825612160802-atlas-lens-co-mercury-t2-2-2-6-1-5x-anamorphic-prime-3-lens-set",
     "oos": false,
-    "category": "АНАМОРФОТ",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "PL",
-      "АНАМОРФОТ"
+      "Оптика"
     ],
     "category_url": "/anamorphic_rent"
   },
@@ -6513,12 +6359,11 @@
     "img": "https://static.tildacdn.com/stor3839-6639-4237-a630-393634323237/76872639.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-104922099742-maran-light-box-30x120-12-x-48",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "406749654062",
@@ -6528,12 +6373,11 @@
     "img": "https://static.tildacdn.com/stor3462-3765-4132-b230-313439313562/95242717.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-406749654062-maran-light-box-60x90-24-x-36",
     "oos": false,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "327752252512",
@@ -6543,12 +6387,11 @@
     "img": "https://static.tildacdn.com/stor6334-6137-4538-b164-623461666261/42673516.jpg",
     "url": "https://raskat.rent/softboxes/tproduct/666561140-327752252512-maran-light-box-45x45-18-x-18",
     "oos": true,
-    "category": "Софтбоксы и чайнаболлы",
+    "category": "Модификаторы света",
     "category_path": [
-      "Модификаторы света",
-      "Софтбоксы и чайнаболлы"
+      "Модификаторы света"
     ],
-    "category_url": "/softboxes"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "808735658062",
@@ -6615,10 +6458,9 @@
     "img": "https://static.tildacdn.com/stor6265-3133-4630-b865-373663666236/82043487.png",
     "url": "https://raskat.rent/sound/tproduct/666561140-319936101332-sennheiser-mkh-416-p48-shotgun-microphone",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6630,10 +6472,9 @@
     "img": "https://static.tildacdn.com/stor3461-3062-4435-a434-383432656637/96654672.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-486849932632-beyerdynamic-dt-770-pro-80-ohms",
     "oos": false,
-    "category": "НАУШНИКИ И КОЛОНКИ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "НАУШНИКИ И КОЛОНКИ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6645,10 +6486,9 @@
     "img": "https://static.tildacdn.com/stor3838-6130-4237-b231-373838303164/42627733.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-219647173302-comica-audio-traxshot-pro-camera-mount-adjustable-dual-capsule-hybrid-analog-usb-shotgun-microphone",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6660,10 +6500,9 @@
     "img": "https://static.tildacdn.com/stor3335-6165-4630-b862-316363643966/57532760.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-195011843072-zoom-h5studio-portable-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6677,7 +6516,6 @@
     "oos": false,
     "category": "ЗВУК",
     "category_path": [
-      "Аксессуары для камеры",
       "ЗВУК"
     ],
     "category_url": "/sound"
@@ -6718,17 +6556,16 @@
     "img": "https://static.tildacdn.com/stor6163-3233-4336-a566-366463383932/86945465.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-628959658682-sound-devices-mixpre-10-ii-10-channel-12-track-multitrack-32-bit-field-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
   {
     "uid": "870704747722",
     "name": "Grids for Amaran pt2c / Nanlite15c",
-    "price": "2,5 € / 1 день",
+    "price": "2.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3235-3836-4261-b434-333361363036/76317555.jpg",
     "url": "https://raskat.rent/mod_lights_rent/tproduct/666561140-870704747722-grids-for-amaran-pt2c-nanlite15c",
@@ -6819,7 +6656,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon RF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -6832,10 +6668,9 @@
     "img": "https://static.tildacdn.com/stor6264-3862-4265-b033-363866346663/78422986.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-168590083822-zoom-f6-6-input-14-track-multitrack-field-recorder",
     "oos": false,
-    "category": "РЕКОРДЕРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "РЕКОРДЕРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6847,10 +6682,9 @@
     "img": "https://static.tildacdn.com/stor3333-3261-4430-b734-313539643737/47054948.jpg",
     "url": "https://raskat.rent/sound/tproduct/666561140-204176307102-rode-videomic-go-camera-mount-shotgun-microphone-kit-with-deadcat-go-windshield",
     "oos": false,
-    "category": "МИКРОФОНЫ И АКСЕССУАРЫ",
+    "category": "ЗВУК",
     "category_path": [
-      "ЗВУК",
-      "МИКРОФОНЫ И АКСЕССУАРЫ"
+      "ЗВУК"
     ],
     "category_url": "/sound"
   },
@@ -6904,11 +6738,11 @@
     "img": "https://static.tildacdn.com/stor3437-3565-4435-b032-373439643265/38254332.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-671312689682-nanlite-projector-mount-for-forza-60-and-60b-led-monolights-36",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "664528243352",
@@ -6916,7 +6750,7 @@
     "price": "33 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3866-3264-4934-b934-383831373066/28959157.jpg",
-    "url": "",
+    "url": "https://raskat.rent/noutbuki-aypady-proektory/macbook-pro-13-m1-256gb",
     "oos": false,
     "category": "НОУТБУКИ, АЙПАДЫ, ПРОЕКТОРЫ",
     "category_path": [
@@ -6930,7 +6764,7 @@
     "price": "21 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3161-3637-4461-b366-303566303137/65756185.jpg",
-    "url": "",
+    "url": "https://raskat.rent/noutbuki-aypady-proektory/ipad-pro-11-inch-1st-generation",
     "oos": false,
     "category": "НОУТБУКИ, АЙПАДЫ, ПРОЕКТОРЫ",
     "category_path": [
@@ -6962,15 +6796,14 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon RF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
   },
   {
     "uid": "924455721792",
-    "name": "Godox KNOWLED MS60R RGB LED Light (2-Light Kit)",
-    "price": "40 € / 1 день",
+    "name": "Godox KNOWLED MS60R RGB LED Light",
+    "price": "20 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3766-6662-4730-b863-333230346435/55997466.jpg",
     "url": "https://raskat.rent/videosvet/tproduct/666561140-924455721792-godox-knowled-ms60r-rgb-led-light-2-light-kit",
@@ -7134,7 +6967,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7203,11 +7035,11 @@
     "img": "https://static.tildacdn.com/stor6165-3339-4464-a235-353330383135/28889838.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-375453641462-nanlite-fl-20g",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "302061812532",
@@ -7359,7 +7191,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7374,7 +7205,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7389,7 +7219,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7397,7 +7226,7 @@
   {
     "uid": "181236541642",
     "name": "Sandbag 5kg",
-    "price": "1,5 € / 1 день",
+    "price": "1.5 € / 1 день",
     "old_price": "2 € / 1 день",
     "img": "https://static.tildacdn.com/stor6663-3435-4966-a432-323165666564/30016932.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-181236541642-sandbag-5kg",
@@ -7430,12 +7259,11 @@
     "img": "https://static.tildacdn.com/stor3264-6165-4035-b564-613330623238/84617032.jpg",
     "url": "https://raskat.rent/optics_adapter_rent/tproduct/666561140-233538217062-tilta-hydra-alien-mini-car-mount-kit-with-electronic-suction-cup",
     "oos": false,
-    "category": "Адаптеры, грип, крепления",
+    "category": "Системы стабилизации",
     "category_path": [
-      "Системы стабилизации",
-      "Адаптеры, грип, крепления"
+      "Системы стабилизации"
     ],
-    "category_url": "/optics_adapter_rent"
+    "category_url": "/system_stabilisation"
   },
   {
     "uid": "550151896462",
@@ -7452,23 +7280,9 @@
     "category_url": "/optics_rent"
   },
   {
-    "uid": "681978985272",
-    "name": "Hollyland LARK M2 DUO 2-Person Wireless Combo Microphone System",
-    "price": "9 € / 1 день",
-    "old_price": "",
-    "img": "https://static.tildacdn.com/stor6338-6166-4865-b433-666536646432/79220128.jpg",
-    "url": "https://raskat.rent/sound/tproduct/666561140-681978985272-hollyland-lark-m2-duo-2-person-wireless-combo-microphone-system",
-    "oos": true,
-    "category": "БЕСПРОВОДНЫЕ ПЕТЛИ",
-    "category_path": [
-      "БЕСПРОВОДНЫЕ ПЕТЛИ"
-    ],
-    "category_url": "/sound"
-  },
-  {
     "uid": "302823928842",
     "name": "amaran SM5c LED Light Strip (16.4', Multicolor)",
-    "price": "7,5 € / 1 день",
+    "price": "7.5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3332-3465-4566-b838-623966636432/56963425.jpg",
     "url": "https://raskat.rent/videosvet/tproduct/666561140-302823928842-amaran-sm5c-led-light-strip-164-multicolor",
@@ -7513,7 +7327,7 @@
     "price": "5 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor6334-3330-4131-b136-613136306330/39220639.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/tilta-pro-articulating-arm-with-dual-ball-heads-1-4-20-screws",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -7559,7 +7373,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon EF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7574,7 +7387,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Canon RF",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7740,7 +7552,7 @@
     "price": "3 € / 1 день",
     "old_price": "",
     "img": "https://static.tildacdn.com/stor3339-3239-4161-b139-373965323163/45564491.jpg",
-    "url": "",
+    "url": "https://raskat.rent/aksessuary-dlya-kamery/manfrotto-244-micro-friction-arm",
     "oos": false,
     "category": "Аксессуары для камеры",
     "category_path": [
@@ -7770,11 +7582,11 @@
     "img": "https://static.tildacdn.com/stor6265-6163-4466-b866-333532396261/59402914.jpg",
     "url": "https://raskat.rent/nasadki/tproduct/666561140-516842691732-aputure-spotlight-mini-zoom-for-ls-60d-and-60x-led-lights",
     "oos": false,
-    "category": "Насадки",
+    "category": "Модификаторы света",
     "category_path": [
-      "Насадки"
+      "Модификаторы света"
     ],
-    "category_url": "/nasadki"
+    "category_url": "/mod_lights_rent"
   },
   {
     "uid": "205945897542",
@@ -7800,7 +7612,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Sony E-MOUNT",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7830,7 +7641,6 @@
     "oos": false,
     "category": "Оптика",
     "category_path": [
-      "Sony E-MOUNT",
       "Оптика"
     ],
     "category_url": "/optics_rent"
@@ -7913,11 +7723,198 @@
     "img": "https://static.tildacdn.com/stor3363-6134-4432-a432-373763653531/13375194.jpg",
     "url": "https://raskat.rent/rent_canon_rf/tproduct/666561140-422673494032-ttartisan-100mm-f-2-8-tilt-shift-macro-lens-canon-rf",
     "oos": false,
-    "category": "Canon RF",
+    "category": "Оптика",
     "category_path": [
-      "Оптика",
-      "Canon RF"
+      "Оптика"
     ],
     "category_url": "/rent_canon_rf"
+  },
+  {
+    "uid": "989076918482",
+    "name": "Aputure STORM 80c BLAIR-CG LED Monolight",
+    "price": "23 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3034-3566-4361-a165-316339396561/42166403.jpg",
+    "url": "https://raskat.rent/videosvet/aputure-storm-80c-blair-cg-led-monolight",
+    "oos": false,
+    "category": "Видео Cвет",
+    "category_path": [
+      "Видео Cвет"
+    ],
+    "category_url": "/videosvet"
+  },
+  {
+    "uid": "207019775072",
+    "name": "Aputure CF4 Fresnel for STORM 80c",
+    "price": "8 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3332-3565-4633-b863-623263376565/69511087.jpg",
+    "url": "https://raskat.rent/mod_lights_rent/aputure-cf4-fresnel-for-storm-80c",
+    "oos": false,
+    "category": "Модификаторы света",
+    "category_path": [
+      "Модификаторы света"
+    ],
+    "category_url": "/mod_lights_rent"
+  },
+  {
+    "uid": "553539197722",
+    "name": "Nanlite FC500B Bi-Color LED Spotlight",
+    "price": "25 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3838-3034-4239-b763-313132643935/90463795.jpg",
+    "url": "https://raskat.rent/videosvet/nanlite-fc500b-bi-color-led-spotlight",
+    "oos": false,
+    "category": "Видео Cвет",
+    "category_path": [
+      "Видео Cвет"
+    ],
+    "category_url": "/videosvet"
+  },
+  {
+    "uid": "305003013312",
+    "name": "Aputure STORM 400x Tunable White LED Monolight",
+    "price": "50 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3464-6264-4733-b132-356465383366/73980911.jpg",
+    "url": "https://raskat.rent/videosvet/aputure-storm-400x-tunable-white-led-monolight",
+    "oos": false,
+    "category": "Видео Cвет",
+    "category_path": [
+      "Видео Cвет"
+    ],
+    "category_url": "/videosvet"
+  },
+  {
+    "uid": "458311931732",
+    "name": "Sennheiser MKE 200 Ultracompact Camera-Mount Directional Microphone",
+    "price": "7 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor6564-6265-4036-b831-646266643137/42327206.jpg",
+    "url": "https://raskat.rent/sound/sennheiser-mke-200-ultracompact-camera-mount-directional-microphone",
+    "oos": false,
+    "category": "ЗВУК",
+    "category_path": [
+      "ЗВУК"
+    ],
+    "category_url": "/sound"
+  },
+  {
+    "uid": "826182832482",
+    "name": "Sennheiser MKE 400 Camera-Mount Shotgun Microphone (2nd Generation)",
+    "price": "10 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor6163-3136-4162-a361-643161313731/74856120.jpg",
+    "url": "https://raskat.rent/sound/sennheiser-mke-400-camera-mount-shotgun-microphone-2nd-generation",
+    "oos": false,
+    "category": "ЗВУК",
+    "category_path": [
+      "ЗВУК"
+    ],
+    "category_url": "/sound"
+  },
+  {
+    "uid": "162810721822",
+    "name": "GoPro Fetch",
+    "price": "3 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3833-3233-4264-a266-616334613531/77528994.jpg",
+    "url": "https://raskat.rent/spec_equip/gopro-fetch",
+    "oos": false,
+    "category": "Специальное оборудование",
+    "category_path": [
+      "Специальное оборудование"
+    ],
+    "category_url": "/spec_equip"
+  },
+  {
+    "uid": "523183171952",
+    "name": "Baofeng BF-T22 PMR446 Walkie Talkie",
+    "price": "3 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3832-6261-4863-a538-383364363530/33004571.jpg",
+    "url": "https://raskat.rent/intercom/baofeng-bf-t22-pmr446-walkie-talkie",
+    "oos": false,
+    "category": "Связь",
+    "category_path": [
+      "Связь"
+    ],
+    "category_url": "/intercom"
+  },
+  {
+    "uid": "753703403122",
+    "name": "Meike MK-6.5mm f/2 Circular Fisheye Lens for Sony E",
+    "price": "10 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor6663-3036-4031-b431-316137663836/44775768.jpg",
+    "url": "https://raskat.rent/misc/meike-mk-6-5mm-f-2-circular-fisheye-lens-for-sony-e",
+    "oos": false,
+    "category": "",
+    "category_path": [],
+    "category_url": ""
+  },
+  {
+    "uid": "170941808412",
+    "name": "Sony MDR-7506 Headphones",
+    "price": "6 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3262-3763-4333-b333-323762306138/32384444.jpg",
+    "url": "https://raskat.rent/sound/sony-mdr-7506-headphones",
+    "oos": false,
+    "category": "ЗВУК",
+    "category_path": [
+      "ЗВУК"
+    ],
+    "category_url": "/sound"
+  },
+  {
+    "uid": "362053421712",
+    "name": "Вращающийся подиум для предметной съёмки",
+    "price": "6 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor6664-3337-4137-a266-333134393162/43304340.webp",
+    "url": "https://raskat.rent/spec_equip/vraschayuschiysya-podium-dlya-predmetnoy-semki",
+    "oos": false,
+    "category": "Специальное оборудование",
+    "category_path": [
+      "Специальное оборудование"
+    ],
+    "category_url": "/spec_equip"
+  },
+  {
+    "uid": "887632281882",
+    "name": "MXL 41-603 Shockmount for 19-23mm diameter mics",
+    "price": "1 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3962-3831-4536-a332-366332356530/16407048.webp",
+    "url": "https://raskat.rent/misc/mxl-41-603-shockmount-for-19-23mm-diameter-mics",
+    "oos": false,
+    "category": "",
+    "category_path": [],
+    "category_url": ""
+  },
+  {
+    "uid": "340409321292",
+    "name": "Aputure STORM 1200x Tunable White LED Monolight",
+    "price": "",
+    "old_price": "",
+    "img": "nan",
+    "url": "https://raskat.rent/misc/aputure-storm-1200x-tunable-white-led-monolight",
+    "oos": false,
+    "category": "",
+    "category_path": [],
+    "category_url": ""
+  },
+  {
+    "uid": "592298912952",
+    "name": "Aputure Amaran AL-F7 On-Camera Variable Color LED Light (3200 to 9500K)",
+    "price": "7 € / 1 день",
+    "old_price": "",
+    "img": "https://static.tildacdn.com/stor3539-3665-4935-b062-623334333935/14943357.jpg",
+    "url": "https://raskat.rent/misc/aputure-amaran-al-f7-on-camera-variable-color-led-light-3200-to-9500k",
+    "oos": false,
+    "category": "",
+    "category_path": [],
+    "category_url": ""
   }
 ]
